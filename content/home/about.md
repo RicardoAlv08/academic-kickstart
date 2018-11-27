@@ -35,6 +35,8 @@ weight = 5
 
 # Biografía
 
+<p align="justify">
+
 Economista egresado de la Universidad Nacional de Costa Rica. Cuenta con amplia experiencia en temas de estadísticas económicas, bases de datos y en la elaboración de reportes dinámicos. Se ha desempeñado como consultor económico y estadístico en el Consejo Monetario Centroamericano desde el 2014 y consultor independiente tanto en el ámbito nacional como en el internacional.<br><br>
 
 Además como Analista Financiero en el sector privado: elaboración de reportes a la alta gerencia en indicadores claves de la operación comercial como ventas, indicadores de productividad, EBITDA y seguimiento inventarios, entre otros.<br><br>
