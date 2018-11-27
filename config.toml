@@ -51,22 +51,22 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Ricardo Alvarado Barrantes"
+  name = "Ricardo Alvarado"
   role = "Consultor económico y estadístico"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Universidad Nacional de Costa Rica", url = "http://www.economia.una.ac.cr/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+   email = "ricardoalv08@hotmail.com"
+  address = "Heredia Centro, Facultad de Ciencias Económicas, Universidad Nacional de Costa Rica, Costa Rica"
+  office_hours = "Sabádos de  10:00 am a 1:00 pm por correo electrónico para citas"
+  phone = "+506 8967 4004"
+  skype = "ricardoalv08"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -89,12 +89,12 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "9.9986861"
+  longitude = "-84.1111858"
   zoom = 15
-
+  
   # SITE SETUP
 
   # Color theme.
@@ -272,10 +272,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -286,36 +286,36 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "Inicio"
   url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Publicaciones"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Consultoría"
   url = "#posts"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "Informes y reportes"
   url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Contact"
+  name = "Contacto"
   url = "#contact"
   weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+    name = "Hoja de vida"
+    url = "files/cv.pdf"
+    weight = 7
 
 # Search.
 [params.search]
