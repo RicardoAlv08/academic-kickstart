@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-11-26T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Estadística descriptiva e inferencial",
+    "Economía aplicada",
+    " Macroeconomía",
+	"Lenguaje de programación con R, Python, VBA de Excel"
   ]
 
-# List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Master Big Data e Inteligencia de Negocios"
+  institution = "Universidad Camilo Jose Cela e IMF"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Licenciatura en Economía"
+  institution = "Universidad Nacional de Costa Rica"
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bachiller en Economía"
+  institution = "Universidad Nacional de Costa Rica"
+  year = 2015
  
 +++
 
-# Biography
+# Biografía
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Economista egresado de la Universidad Nacional de Costa Rica. Cuenta con amplia experiencia en temas de estadísticas económicas, bases de datos y en la elaboración de reportes dinámicos. Se ha desempeñado como consultor económico y estadístico en el Consejo Monetario Centroamericano desde el 2014 y consultor independiente tanto en el ámbito nacional como en el internacional.<br><br>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Además como Analista Financiero en el sector privado: elaboración de reportes a la alta gerencia en indicadores claves de la operación comercial como ventas, indicadores de productividad, EBITDA y seguimiento inventarios, entre otros.<br><br>
+
+En la actualidad, está culminando la tesis de Licenciatura en Economía en la Universidad Nacional de Costa Rica y está cursando la Maestría Big data y Business Analytics en la Universidad Camilo Jos Céla, España.</p>
