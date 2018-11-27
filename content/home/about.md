@@ -35,9 +35,8 @@ weight = 5
 
 # Biografía
 
-<p align="justify">
 
-EAnalista financiero (Tiempo completo)
+Analista financiero (Tiempo completo)
 Unicomer de Costa Rica (Gollo) Mayo 2018 – Actualidad
 Alajuela - Costa Rica
 
@@ -68,4 +67,3 @@ Ministerio de Economía, Industria y Comercio Julio 2014 – Octubre 2014
 San José - Costa Rica
 
 Realicé una pasantía en julio a octubre del 2014, en el Departamento de Políticas y verificación de Mercados en la Dirección de Apoyo al Consumidor, estuve a cargo actualizar la Base de Datos de Ventas a Plazo así como corroborar la información para la solicitud de inscripción. apegada a la normativa de la Ley 7472 y actividades relacionadas con dicha verificación.
-</p>
