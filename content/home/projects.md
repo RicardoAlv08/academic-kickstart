@@ -42,11 +42,15 @@ filter_default = 0
 #
  [[filter]]
    name = "Macroeconomía"
-   tag = "Excel"
+   tag = "Demo"
 
  [[filter]]
-   name = "Other"
+   name = "Excel"
    tag = "Demo"
+   
+ [[filter]]
+  name = "Otros"
+  tag = "Demo"
 
 +++
 
