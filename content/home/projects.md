@@ -42,7 +42,7 @@ filter_default = 0
 #
  [[filter]]
    name = "Macroeconomía"
-   tag = "Demo"
+   tag = "Macroeconomía"
 
  [[filter]]
    name = "Excel"
