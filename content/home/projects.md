@@ -46,11 +46,11 @@ filter_default = 0
 
  [[filter]]
    name = "Excel"
-   tag = "Demo"
+   tag = "Excel"
    
  [[filter]]
-  name = "Otros"
-  tag = "Demo"
+  name = "Todos"
+  tag = "Todos"
 
 +++
 

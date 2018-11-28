@@ -10,7 +10,7 @@ title = "Reporte de Indicadores Fiscales"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Macroeconomía", "Excel"]
+tags = ["Macroeconomía", "Excel","Todos"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
