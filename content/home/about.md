@@ -7,9 +7,6 @@ date = 2018-11-26T00:00:00
 # Order that this section will appear in.
 weight = 2
 
-# Minimum slide height.
-# Specify a height to ensure a consistent height for each slide.
-height = "500px"
 
 # List your academic interests.
 [interests]
