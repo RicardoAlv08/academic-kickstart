@@ -34,4 +34,4 @@ weight = 2
 +++
 
 # Biografía
-
+<div class="infogram-embed" data-id="f9adde4b-2a5d-4823-8e32-671e22c9f105" data-type="interactive" data-title=""></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement
