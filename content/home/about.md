@@ -7,8 +7,8 @@ date = 2018-11-26T00:00:00
 # Order that this section will appear in.
 weight = 2
 
-width="100"
-height="100"
+width="1000"
+height="1000"
 
 # List your academic interests.
 [interests]
