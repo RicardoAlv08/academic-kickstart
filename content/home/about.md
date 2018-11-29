@@ -7,6 +7,10 @@ date = 2018-11-26T00:00:00
 # Order that this section will appear in.
 weight = 2
 
+# Minimum slide height.
+# Specify a height to ensure a consistent height for each slide.
+height = "50px"
+
 # List your academic interests.
 [interests]
   interests = [
@@ -14,7 +18,7 @@ weight = 2
     "Economía aplicada",
     " Macroeconomía",
 	"Lenguaje de programación con R, Python, VBA de Excel"
-  ]
+  ] 
 
 #[[education.courses]]
 #  course = "Master Big Data e Inteligencia de Negocios"
