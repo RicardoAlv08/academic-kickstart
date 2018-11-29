@@ -9,7 +9,7 @@ weight = 2
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height = "50px"
+height = "500px"
 
 # List your academic interests.
 [interests]
