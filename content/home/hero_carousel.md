@@ -13,7 +13,7 @@ interval = "4000"
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-#height = "50px"
+height = "50px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
