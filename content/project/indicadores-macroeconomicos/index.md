@@ -26,4 +26,4 @@ external_link = ""
   focal_point = "Smart"
 +++
 
-<div class="infogram-embed" data-id="f9adde4b-2a5d-4823-8e32-671e22c9f105" data-type="interactive" data-title=""></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement
+<iframe src="https://e.infogram.com/f9adde4b-2a5d-4823-8e32-671e22c9f105?src=embed" title="IMAE" width="550" height="0" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/f9adde4b-2a5d-4823-8e32-671e22c9f105" style="color:#989898!important;text-decoration:none!important;" target="_blank">IMAE</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
