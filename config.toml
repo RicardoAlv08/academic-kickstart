@@ -289,8 +289,6 @@ enableGitInfo = false
   name = "Inicio"
   url = "#about"
   weight = 1
-  icon = "google-scholar"
-  icon_pack = "ai"
 
 [[menu.main]]
   name = "Publicaciones"
