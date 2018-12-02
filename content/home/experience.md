@@ -19,13 +19,13 @@ date_format = "Enero 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Analista financiero (Tiempo completo)"
+  company = "Unicomer de Costa Rica (Gollo)"
+  company_url = "http://www.grupounicomer.com/cadenas/gollo-2/"
+  location = "Alajuela - Costa Rica"
+  date_start = "2018-02-01"
   date_end = ""
-  description = """
+  description = "Actualmente me desempeño como Analista Financiero en el grupo Unicomer de Costa Rica (Gollo), en los que he trabajado en diferentes proyectos: elaboración de reportes productividad en tiendas (creación de indicadores), minería en base de datos y visualización de gráfica; elaboración de reportes para la alta gerencia, realizar un seguimiento constante del flujo de caja, balance de la situación de la empresa y de las tiendas. Proyectar presupuestos y elaboración del flujo de caja."
   Responsibilities include:
   
   * Analysing
