@@ -44,7 +44,7 @@ date_format = "January 2006"
   Responsabilidades:
   
   * Manipulación, transformación y carga de datos (económicos)
-  * Actualización de la base de datos [SIMAFIR][http://www.secmca.org/simafir.html]
+  * Actualización de la base de datos [SIMAFIR](http://www.secmca.org/simafir.html)
   * Seguimiento constante de las principales variables económicas de la región 
   """
 
