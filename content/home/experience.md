@@ -63,8 +63,8 @@ date_format = "January 2006"
   * Automatización de reportes de Excel con VBA
   * Programación estadística: cargar, manipular y extraer información
   * Análisis exploratorio de los datos
-  * Manejo de paquetes estadísticos **R**, Python, STATA, E-views,SPSS
-  
+  * Manejo de paquetes estadísticos: **R**, **Python**, **STATA**, **E-views**, **SPSS**
+  * Manejo de paquetes de visualización de los datos: **Power BI**, **R-studio**, **Infogram**
   """
 
 +++
