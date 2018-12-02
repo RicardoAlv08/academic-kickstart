@@ -25,7 +25,7 @@ date_format = "Enero 2006"
   location = "Alajuela - Costa Rica"
   date_start = "2018-02-01"
   date_end = ""
-  description = "Actualmente me desempeño como Analista Financiero en el grupo Unicomer de Costa Rica (Gollo), en los que he trabajado en diferentes proyectos: elaboración de reportes productividad en tiendas (creación de indicadores), minería en base de datos y visualización de gráfica; elaboración de reportes para la alta gerencia, realizar un seguimiento constante del flujo de caja, balance de la situación de la empresa y de las tiendas. Proyectar presupuestos y elaboración del flujo de caja."
+  description = """
   Responsibilities include:
   
   * Analysing
