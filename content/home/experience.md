@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Experiencia"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -11,7 +11,7 @@ weight = 8
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "Enero 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
