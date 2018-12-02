@@ -10,7 +10,7 @@ weight = 2
 # List your academic interests.
 [interests]
   interests = [
-    "Estadística descriptiva e inferencial",
+    "Estadística",
     "Economía aplicada",
     " Macroeconomía",
 	"Lenguaje de programación con R, Python, VBA de Excel"
