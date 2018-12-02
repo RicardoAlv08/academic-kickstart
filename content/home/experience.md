@@ -48,14 +48,22 @@ date_format = "January 2006"
   * Seguimiento constante de las principales variables económicas de la región 
   """
 
-  [[experience]]
-  title = "Consejo Monet"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+[[experience]]
+  title = "Consultor económico (un cuarto de tiempo)"
+  company = "Trabajador independiente"
+  company_url = "https://www.ricardoalvbar.com/"
+  location = "Heredia - Costa Rica"
+  date_start = "2016-01-31"
+  date_end = ""
+  description = """
+  Responsabilidades:
+  
+  * Elaboración de informes de Coyuntura Económica
+  * Creación de indicadores
+  * Automatización de reportes de Excel con VBA
+  * Programación estadística: cargar, manipular y extraer información
+  * Análisis exploratorio de los datos
+  * Manejo de paquetes estadísticos ** R, Python, STATA, E-views,SPSS, Power BI**
+  """
 
 +++
