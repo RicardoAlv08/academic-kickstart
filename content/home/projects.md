@@ -5,7 +5,7 @@ active = true
 date = 2018-12-01T00:00:00
 
 title = "Informes y Reportes"
-subtitle = "Aquí encontrará los documentos elaborados por **Ricardo Alvarado** con la finalidad de comunicar a la ciudadanía **el seguimiento económico de Costa Rica**, así como presentar los servicios que él ofrece: **Informes económicos**, **Estudios y Proyecciones**, **Análisis de datos** y **Elaboración de Reportes con Excel y Power BI**."
+subtitle = "<p align="justify">Aquí encontrará los documentos elaborados por **Ricardo Alvarado** con la finalidad de comunicar a la ciudadanía **el seguimiento económico de Costa Rica**, así como presentar los servicios que él ofrece: **Informes económicos**, **Estudios y Proyecciones**, **Análisis de datos** y **Elaboración de Reportes con Excel y Power BI**.</p>"
 
 # Order that this section will appear in.
 weight = 2
