@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Indicadores Macroeconómicos"
+title = "Monitor Económico"
 
 # Date this page was created.
 date = 2018-11-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of using the in-built project page."
+summary = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
