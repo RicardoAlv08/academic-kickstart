@@ -55,15 +55,21 @@ height = "50px"
   
 [[item]]
   title = "Elaboración de Reportes dinámicos con Excel y Business Intelligence de Power BI de Microsoft"
-  content = "Automatización de procesos con MACROS de Excel VBA y desarrollo de aplicaciones dinámicas de divulgación de datos mediante el uso de
-herramientas Business Intelligence de Power BI de Microsoft" 
-  
+  content = "Automatización de procesos con MACROS de Excel VBA y desarrollo de aplicaciones dinámicas de divulgación de datos mediante el uso de herramientas Business Intelligence de Power BI de Microsoft" 
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "b2ap3_large_power_bi_to_excel.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.  
   
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Get Academic"
+  cta_url = "https://sourcethemes.com/academic/"
+  cta_icon_pack = "fa"
+  cta_icon = "graduation-cap"
+   
   
 [[item]]
   title = "Análisis de datos"
