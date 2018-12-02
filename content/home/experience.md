@@ -23,14 +23,14 @@ date_format = "Enero 2006"
   company = "Unicomer de Costa Rica (Gollo)"
   company_url = "http://www.grupounicomer.com/cadenas/gollo-2/"
   location = "Alajuela - Costa Rica"
-  date_start = "2018-02-01"
+  date_start = "2018-01-05"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsabilidades:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Elaboración de reportes para la alta gerencia
+  * Minería en base de datos y visualización de gráfica
+  * Seguimiento constante del presupuesto
   """
 
 [[experience]]
