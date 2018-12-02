@@ -25,7 +25,7 @@ date_format = "Enero 2006"
   location = "Alajuela - Costa Rica"
   date_start = "2018-02-01"
   date_end = ""
-  description = "esta las sientes"
+  description = ""
   Responsibilities include:
   
   * Analysing
