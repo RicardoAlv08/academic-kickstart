@@ -32,5 +32,3 @@ weight = 2
   year = 2015
  
 +++
-
-# Biografía
