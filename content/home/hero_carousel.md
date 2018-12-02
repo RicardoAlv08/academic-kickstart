@@ -54,7 +54,7 @@ height = "50px"
   cta_icon = "graduation-cap"
   
 [[item]]
-  title = "Reportes en Excel y Power BI de Microsoft"
+  title = "Reportes en Excel y Power BI"
   content = "Automatización de procesos con MACROS de Excel VBA y divulgación de datos mediante el uso de herramientas Business Intelligence de Power BI de Microsoft" 
   align = "left"
 
