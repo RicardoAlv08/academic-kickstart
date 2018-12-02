@@ -5,8 +5,7 @@ active = true
 date = 2018-12-01T00:00:00
 
 title = "Informes y Reportes"
-subtitle = "Aquí encontrarás los documentos emitidos por esta dependencia del Gobierno de la Ciudad de México con la finalidad de 
-comunicar a la ciudadanía los avances en los programas y servicios que ofrece así como la información de competencia de la dependencia."
+subtitle = "Aquí encontrarás los documentos emitidos por esta dependencia del Gobierno de la Ciudad de México con la finalidad de comunicar a la ciudadanía los avances en los programas y servicios que ofrece así como la información de competencia de la dependencia."
 
 # Order that this section will appear in.
 weight = 2
