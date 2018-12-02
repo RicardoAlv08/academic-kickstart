@@ -59,7 +59,7 @@ height = "50px"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "powerbi-desktop.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "power-bi-marketing.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.  
   
   # Call to action button (optional).
