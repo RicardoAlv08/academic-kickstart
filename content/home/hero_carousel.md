@@ -44,7 +44,6 @@ height = "50px"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "informe.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
-  overlay_size = "10"
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -55,7 +54,7 @@ height = "50px"
   cta_icon = "graduation-cap"
   
 [[item]]
-  title = "## Elaboración de Reportes dinámicos: Excel y Power BI de Microsoft"
+  title = "Reportes en Excel y Power BI de Microsoft"
   content = "Automatización de procesos con MACROS de Excel VBA y divulgación de datos mediante el uso de herramientas Business Intelligence de Power BI de Microsoft" 
   align = "left"
 
