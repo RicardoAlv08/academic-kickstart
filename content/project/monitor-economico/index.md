@@ -26,4 +26,4 @@ external_link = ""
   focal_point = "Smart"
 +++
 
-<amp-iframe width="1500" height="916" layout="responsive" sandbox="allow-scripts allow-same-origin allow-popups" resizable allowfullscreen frameborder="0" src="https://e.infogram.com/bdcae899-1edf-4187-afea-9ec68518a8da?src=embed"><div style="visibility: hidden" overflow tabindex=0 role=button aria-label="Loading..." placeholder>Loading...</div></amp-iframe>
+<iframe src="https://e.infogram.com/bdcae899-1edf-4187-afea-9ec68518a8da?src=embed" title="Monitor" width="1500" height="916" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/bdcae899-1edf-4187-afea-9ec68518a8da" style="color:#989898!important;text-decoration:none!important;" target="_blank">Monitor</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
