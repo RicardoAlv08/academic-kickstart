@@ -5,7 +5,7 @@ active = true
 date = 2018-12-01T00:00:00
 
 title = "Informes y Reportes"
-subtitle = ""
+subtitle = "Aquí encontrará los documentos elaborados por el autor con la finalidad de comunicar a la ciudadanía los avances en la economía de Costa Rica y servicios que ofrece el consultor."
 
 # Order that this section will appear in.
 weight = 2
