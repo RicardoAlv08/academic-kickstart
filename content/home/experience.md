@@ -34,12 +34,28 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
+  title = "Consultor estadístico"
+  company = "Consejo Monetario Centroamericano"
+  company_url = "http://www.secmca.org/"
+  location = "San José - Costa Rica"
+  date_start = "2014-10-24"
+  date_end = "2018-04-30"
+  description = """
+  Responsabilidades:
+  
+  * Manipulación, transformación y carga de datos (económicos)
+  * Actualización de la base de datos [SIMAFIR][http://www.secmca.org/simafir.html]
+  * Seguimiento constante de las principales variables económicas de la región 
+  """
+
+  [[experience]]
+  title = "Consejo Monet"
   company = "University X"
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
+
 
 +++
