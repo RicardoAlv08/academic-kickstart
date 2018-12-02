@@ -62,7 +62,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "https://formspree.io/ricardoalv08@hotmail.com"
+  email = "ricardoalv08@hotmail.com"
   address = "Heredia Centro, Facultad de Ciencias Económicas, Universidad Nacional de Costa Rica, Costa Rica"
   office_hours = "Sabádos de  10:00 am a 1:00 pm por correo electrónico para citas"
   phone = "+506 8967 4004"
