@@ -11,7 +11,7 @@ weight = 8
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Enero 2006"
+date_format = "Marzo 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -23,7 +23,7 @@ date_format = "Enero 2006"
   company = "Unicomer de Costa Rica (Gollo)"
   company_url = "http://www.grupounicomer.com/cadenas/gollo-2/"
   location = "Alajuela - Costa Rica"
-  date_start = "2018-01-05"
+  date_start = "2018-05-05"
   date_end = ""
   description = """
   Responsabilidades:
