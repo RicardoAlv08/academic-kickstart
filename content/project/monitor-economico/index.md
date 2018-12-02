@@ -26,4 +26,4 @@ external_link = ""
   focal_point = "Smart"
 +++
 
-[infogram id="bdcae899-1edf-4187-afea-9ec68518a8da" prefix="iSk" format="interactive" title="Monitor"]
+<amp-iframe width="1500" height="916" layout="responsive" sandbox="allow-scripts allow-same-origin allow-popups" resizable allowfullscreen frameborder="0" src="https://e.infogram.com/bdcae899-1edf-4187-afea-9ec68518a8da?src=embed"><div style="visibility: hidden" overflow tabindex=0 role=button aria-label="Loading..." placeholder>Loading...</div></amp-iframe>
