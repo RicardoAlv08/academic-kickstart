@@ -55,7 +55,7 @@ height = "50px"
   
 [[item]]
   title = "Elaboración de Reportes dinámicos con Excel y Business Intelligence de Power BI de Microsoft"
-  content = "Automatización de procesos con MACROS de Excel VBA y desarrollo de aplicaciones dinámicas de divulgación de datos mediante el uso de herramientas Business Intelligence de Power BI de Microsoft" 
+  content = "Automatización de procesos con MACROS de Excel VBA y divulgación de datos mediante el uso de herramientas Business Intelligence de Power BI de Microsoft" 
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
