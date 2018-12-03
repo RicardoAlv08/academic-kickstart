@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Skills"
+title = "Habilidades"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -22,7 +22,7 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
+  icon = "r-studio"
   icon_pack = "fab"
   name = "R"
   description = "90%"
