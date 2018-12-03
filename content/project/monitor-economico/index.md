@@ -25,5 +25,10 @@ external_link = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+Precios
 
 <iframe src="https://e.infogram.com/bdcae899-1edf-4187-afea-9ec68518a8da?src=embed" title="Monitor" width="1000" height="1200" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/bdcae899-1edf-4187-afea-9ec68518a8da" style="color:#989898!important;text-decoration:none!important;" target="_blank">Monitor</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+Actvidad económica
+
+<script id="infogram_0_f0d2ab76-174c-43d0-abc7-0c17bf9030fd" title="Copy: Monitor" src="https://e.infogram.com/js/dist/embed.js?C67" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/f0d2ab76-174c-43d0-abc7-0c17bf9030fd" style="color:#989898!important;text-decoration:none!important;" target="_blank">Copy: Monitor</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
