@@ -4,9 +4,9 @@ widget = "featurette"  # Do not modify this line!
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
-active = true
+active = false
 
-title = "Habilidades"
+title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -22,7 +22,7 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-studio"
+  icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = "90%"
