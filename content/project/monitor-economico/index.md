@@ -32,3 +32,7 @@ external_link = ""
 # Actvidad económica
 
 <iframe src="https://e.infogram.com/f0d2ab76-174c-43d0-abc7-0c17bf9030fd?src=embed" title="Copy: Monitor" width="1000" height="1200" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/f0d2ab76-174c-43d0-abc7-0c17bf9030fd" style="color:#989898!important;text-decoration:none!important;" target="_blank">Copy: Monitor</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+# Sector Externo
+
+<iframe src="https://e.infogram.com/4be57ed7-6104-4398-ae56-c56c974eaa3f?src=embed" title="Monitor: Externo" width="1000" height="1200" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/4be57ed7-6104-4398-ae56-c56c974eaa3f" style="color:#989898!important;text-decoration:none!important;" target="_blank">Monitor: Externo</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
