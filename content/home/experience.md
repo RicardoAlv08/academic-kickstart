@@ -18,13 +18,29 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Consultor estadístico en riesgos"
+  company = "Coope Ande"
+  company_url = "http://www.coopeande1.com/"
+  location = "San José - Costa Rica"
+  date_start = "2019-01-21"
+  date_end = ""
+  description = """
+  Responsabilidades:
+  
+  * Elaboración, evaluación y supervisión de modelos estadístico
+  * Seguimiento constante de indicadores en gestión del riesgo
+  * Riesgos de mercado, tasa de interés y de tipo de cambio, liquidez, crédito, operativo, reputacional y legitimación de capitales
+  """
+  
 [[experience]]
   title = "Analista financiero (Tiempo completo)"
   company = "Unicomer de Costa Rica (Gollo)"
   company_url = "http://www.grupounicomer.com/cadenas/gollo-2/"
   location = "Alajuela - Costa Rica"
   date_start = "2018-05-05"
-  date_end = ""
+  date_end = "2018-12-30"
   description = """
   Responsabilidades:
   
