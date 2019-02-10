@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Consultor estadístico en riesgos"
+  title = "Consultor estadístico en riesgos (Tiempo completo)"
   company = "Coope Ande"
   company_url = "http://www.coopeande1.com/"
   location = "San José - Costa Rica"
@@ -35,7 +35,7 @@ date_format = "January 2006"
   """
   
 [[experience]]
-  title = "Analista financiero (Tiempo completo)"
+  title = "Analista financiero"
   company = "Unicomer de Costa Rica (Gollo)"
   company_url = "http://www.grupounicomer.com/cadenas/gollo-2/"
   location = "Alajuela - Costa Rica"
