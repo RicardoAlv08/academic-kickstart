@@ -82,5 +82,19 @@ date_format = "January 2006"
   * Manejo de paquetes estadísticos: **R**, **Python**, **STATA**, **E-views**, **SPSS**
   * Manejo de paquetes de visualización de los datos: **Power BI**, **R-studio**, **Infogram**
   """
-
+[[experience]]
+  title = "Pasante"
+  company = "Ministerio de Economía, Industria y Comercio (Meic)"
+  company_url = "https://www.meic.go.cr/meic/"
+  location = "San José - Costa Rica"
+  date_start = "2014-07-21"
+  date_end = "2014-10-05"
+  description = """
+  Responsabilidades:
+  
+  * Actualizar la Base de Datos de Ventas a Plazo
+  * Corroborar la información para la solicitud de inscripción, apegada a la normativa de la Ley 7472
+  * Inspección de ofertas en tiendas a lo largo de país  
+  """
+  
 +++
