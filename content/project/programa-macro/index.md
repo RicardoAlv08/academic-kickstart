@@ -3,7 +3,7 @@
 date = 2018-10-27T00:00:00
 
 # Project title.
-title = "BCCR: Programa Macroecon�mico de Costa Rica"
+title = "BCCR: Programa Macroeconómico de Costa Rica"
 
 # Project summary to display on homepage.
 #summary = "<FONT SIZE=3> El Informe de Coyuntura Trimestral, analiza el desempeño de la economía internacional y nacional. Incluyen una revisión de las perspectivas económicas y del comportamiento esperado, a fin de adelantar escenarios en el corto plazo.</font>" 
