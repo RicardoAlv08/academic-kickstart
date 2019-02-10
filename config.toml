@@ -16,7 +16,7 @@ title = "Ricardo Alvarado Barrantes"
 copyright = "&copy; 2019; Elaborado por Ricardo Alvarado Barrantes"
 
 theme = "academic"
-enableEmoji = true
+enableEmoji = false
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
