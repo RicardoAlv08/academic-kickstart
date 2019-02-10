@@ -8,8 +8,8 @@ date = 2018-11-26T00:00:00
 weight = 2
 
 # List your academic interests.
-[interestes]
-  interestes = [
+[interests]
+  interests = [
     "Estadística",
     "Economía aplicada",
     " Macroeconomía",
