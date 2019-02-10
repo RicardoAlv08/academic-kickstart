@@ -32,9 +32,9 @@ weight = 2
   year = 2015
  
 +++
-
+<div class=text-justify>
 Actualmente me desempeño como Analista estadístico, me encargo de
-elaborar, evaluar y supervisar modelos estadísticos basados en la gestión integral de riesgos. Brindo servicios profesionales como consultor económico en asesoramiento y ayuda práctica, tengo experiencia en el área de elaborar informes de Coyuntura Económica en la situación de la economía internacional y actual del país, elaborar presentaciones (En LaTeX Beamer) e informes técnicos, indicadores macroeconómicos, sociales. 
+elaborar, evaluar y supervisar modelos estadísticos basados en la gestión integral de riesgos. Brindo servicios profesionales como consultor económico en asesoramiento y ayuda práctica, tengo experiencia en el área de elaborar informes de Coyuntura Económica en la situación de la economía internacional y actual del país, elaborar presentaciones (En LaTeX Beamer) e informes técnicos, indicadores macroeconómicos, sociales.</div>
 
 
 
