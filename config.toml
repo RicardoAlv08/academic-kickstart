@@ -291,31 +291,31 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "Informes y reportes"
+  url = "#projects"
+  weight = 2
+  
+[[menu.main]]
   name = "Publicaciones"
   url = "#publications_selected"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Consultoría"
   url = "#posts"
-  weight = 3
-
-[[menu.main]]
-  name = "Informes y reportes"
-  url = "#projects"
   weight = 4
 
 [[menu.main]]
   name = "Contacto"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
    name = "Hoja de vida"
    url = "files/cv.pdf"
-   weight = 7
+   weight = 6
 
 # Search.
 [params.search]
