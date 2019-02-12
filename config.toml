@@ -317,6 +317,12 @@ enableGitInfo = false
    url = "files/cv.pdf"
    weight = 6
 
+[[menu.main]]
+  name = "Calendario de publicaciones"
+  url = "#files/cp.pdf"
+  weight = 7
+
+  
 # Search.
 [params.search]
   # Search provider:
