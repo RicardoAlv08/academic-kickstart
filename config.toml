@@ -319,7 +319,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Calendario de publicaciones"
-  url = "#files/cp.pdf"
+  url = "files/cp.pdf"
   weight = 7
 
   
