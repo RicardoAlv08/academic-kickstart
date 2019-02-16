@@ -26,4 +26,8 @@ count = 5
 #   2 = Stream
 list_format = 2
 +++
-La consultoria se realiza con el detalle de la persona en la que se trasnmite todolo que se sabe 
+Debe saber que una de mis principales características es la flexibilidad para llevar adelante su negocio contemplando todas sus necesidades y requerimientos.
+
+Adjunto encontrará una propuesta detallada de los cursos que le ayudaran a pontenciar su negocio, que le permitirá apreciar las ventajas y la conveniencia para sacar el mejor provecho en su negocio.
+
+Si está interesado en recibir mayor información sobre servicios que puedo ofrecerle, no dude en comunicarse y con gusto coordinaremos una entrevista personal o telefónica.
