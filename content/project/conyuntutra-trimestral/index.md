@@ -34,9 +34,6 @@ math = false
 El <b> Informe de Coyuntura Trimestral</b>, analiza el desempeño de la economía internacional y nacional. En el contexto internacional se pone énfasis en los socios comerciales de Costa Rica, así como de los principales indicadores de coyuntura: crecimiento económico, inflación, tasas de interés de referencia y tipo de cambio.<br><br> Mientras que, en el ámbito nacional, se analiza el desempeño de los principales hechos económicos que han incidido en el comportamiento en el periodo analizado, en el crecimiento económico, inflación, empleo, importación y exportación, balance fiscal y crédito al sector privado. Incluyen una revisión de las perspectivas económicas y del comportamiento esperado, a fin de adelantar escenarios en el corto plazo.
 </div>
 
-### Informes publicados en 2018
-
-* [Informe de Conyuntura III trimestre de 2018](/files/informes/Coyuntura2Trim2010.pdf)
 
 ### Informes publicados en 2019
 * [Informe de Conyuntura I trimestre de 2019](/files/informes/Coyuntura1Trim2011.pdf)
