@@ -32,7 +32,7 @@ height = "50px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Principales indicadores macroeconómicos"
-  cta_url = "files/bd/variables_clave.html"
+  cta_url = "https://www.ricardoalvbar.com/project/monitor-economico/
   cta_icon_pack = "fa"
   cta_icon = "download"
 
