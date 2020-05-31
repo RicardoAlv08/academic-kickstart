@@ -21,7 +21,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Consultor estadístico en riesgos (Tiempo completo)"
-  company = "Coope Ande"
+  company = "Coope Ande1"
   company_url = "http://www.coopeande1.com/"
   location = "San José - Costa Rica"
   date_start = "2019-01-21"
