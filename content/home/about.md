@@ -16,13 +16,13 @@ weight = 2
 	"Lenguaje de programación con R, Python, VBA de Excel"
   ] 
 
-[interests]
-  interests = [
-    "Estadística",
-    "Economía aplicada",
-    " Macroeconomía",
-	"Lenguaje de programación con R, Python, VBA de Excel"
-  ] 
+#[interests]
+#  interests = [
+#    "Estadística",
+#    "Economía aplicada",
+#    " Macroeconomía",
+#	"Lenguaje de programación con R, Python, VBA de Excel"
+#  ] 
   
   
 #[[education.courses]]
