@@ -16,6 +16,15 @@ weight = 2
 	"Lenguaje de programación con R, Python, VBA de Excel"
   ] 
 
+[interests]
+  interests = [
+    "Estadística",
+    "Economía aplicada",
+    " Macroeconomía",
+	"Lenguaje de programación con R, Python, VBA de Excel"
+  ] 
+  
+  
 #[[education.courses]]
 #  course = "Master Big Data e Inteligencia de Negocios"
 #  institution = "Universidad Camilo Jose Cela e IMF"
