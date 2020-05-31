@@ -5,7 +5,7 @@ active = true
 date = 2018-12-01T00:00:00
 
 title = "Informes y Reportes"
-subtitle = "<div class=text-justify>AquÃ­ encontrarÃ¡ los documentos elaborados por <b>Ricardo Alvarado</b> con la finalidad de comunicar a la ciudadanÃ­a <b>el seguimiento econÃ³mico de Costa Rica</b>, asÃ­ como presentar los servicios que Ã©l ofrece: <b>Informes econÃ³micos</b>, <b>Estudios y Proyecciones</b>, <b>AnÃ¡lisis de datos</b> y <b>ElaboraciÃ³n de Reportes con Excel y Power BI</b>.</div>"
+subtitle = "<div class=text-justify>Aquí encontrará los documentos elaborados por <b>Ricardo Alvarado</b> con la finalidad de comunicar a la ciudadanía <b>el seguimiento económico de Costa Rica</b>, así como presentar los servicios que sé ofrece: <b>Informes económicos</b>, <b>Estudios y Proyecciones</b>, <b>Análisis de datos</b> y <b>Elaboración de Reportes con Excel y Power BI</b>.</div>"
 
 # Order that this section will appear in.
 weight = 2
@@ -46,8 +46,8 @@ filter_default = 1
   tag = "Todos"
   
  [[filter]]
-   name = "MacroeconomÃ­a"
-   tag = "MacroeconomÃ­a"
+   name = "Macroeconomía"
+   tag = "Macroeconomía"
 
  [[filter]]
    name = "Excel"
