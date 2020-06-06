@@ -286,7 +286,7 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Inicio"
+  name = "Acerca de"
   url = "#about"
   weight = 1
 
