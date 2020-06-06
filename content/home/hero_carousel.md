@@ -31,10 +31,10 @@ height = "50px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Principales indicadores macroeconómicos"
-  cta_url = "https://www.ricardoalvbar.com/project/monitor-economico/"
-  cta_icon_pack = "fa"
-  cta_icon = "download"
+ # cta_label = "Principales indicadores macroeconómicos"
+ # cta_url = "https://www.ricardoalvbar.com/project/monitor-economico/"
+ # cta_icon_pack = "fa"
+ # cta_icon = "download"
 
 [[item]]
   title = "Informes económicos"
@@ -48,10 +48,10 @@ height = "50px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "fa"
-  cta_icon = "graduation-cap"
+ # cta_label = "Get Academic"
+ # cta_url = "https://sourcethemes.com/academic/"
+ # cta_icon_pack = "fa"
+ # cta_icon = "graduation-cap"
   
 [[item]]
   title = "Reportes  dinámicos en Excel y Power BI"
@@ -66,9 +66,9 @@ height = "50px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "fa"
-  cta_icon = "graduation-cap"
+  #cta_url = "https://sourcethemes.com/academic/"
+  #cta_icon_pack = "fa"
+  #cta_icon = "graduation-cap"
    
   
 [[item]]
@@ -84,9 +84,9 @@ height = "50px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "fa"
-  cta_icon = "graduation-cap"
+  #cta_label = "Get Academic"
+  #cta_url = "https://sourcethemes.com/academic/"
+  #cta_icon_pack = "fa"
+  #cta_icon = "graduation-cap"
   
 +++
